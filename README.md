@@ -1,3 +1,5 @@
 ## Simple Todo-List by JavaScript
 Hello it is a simple to do list by javascript. 
 You can test it via visiting https://tursynbek.github.io/todo-list-js/
+![image](https://github.com/tursynbek/todo-list-js/assets/92661615/eaa9e6e1-cf29-48e4-98a6-e162124f6633)
+![image](https://github.com/tursynbek/todo-list-js/assets/92661615/5ae5d926-4937-4145-b618-7fe604aa0f00)
